@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Alaa Ayman 👋
 
-<!--
-**alaaayman11/alaaayman11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Agriculture Student | AI & Data Science Learner
 
-Here are some ideas to get you started:
+I'm currently studying at the **Faculty of Agriculture, Alexandria University** and learning **AI & Data Science** through specialized training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in **Data Analysis, Python, and AI**, and I enjoy building practical projects while continuously developing my technical skills.
+
+### 💻 Skills & Tools
+
+* Python 🐍
+* Pandas
+* Data Analysis 📊
+* Excel
+* Data Visualization
+* SQL
+
+### 📂 Featured Project
+
+**Supermarket Sales Analysis**
+
+A data analysis project exploring supermarket sales data using Python, Pandas, and data visualization.
+
+### 🌱 Currently Learning
+
+* Python
+* Data Analysis
+* SQL
+* AI & Data Science
+
+### 📚 Education
+
+**Faculty of Agriculture – Alexandria University**
+Currently studying
+
+**AI & Data Science Training**
+Currently learning
+
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/alaa-ayman-a84a43407/)
+
