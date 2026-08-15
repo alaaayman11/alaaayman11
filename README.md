@@ -18,7 +18,7 @@ I'm interested in **Data Analysis, Python, and AI**, and I enjoy building practi
 ### 📂 Featured Project
 
 
-
+https://github.com/alaaayman11/supermarket-sales-analysis
 
 
 ### 🌱 Currently Learning
