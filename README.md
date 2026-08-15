@@ -2,7 +2,7 @@
 
 ### 🎓 Agriculture Student | AI & Data Science Learner
 
-I'm currently studying at the **Faculty of Agriculture, Alexandria University** and learning **AI & Data Science** through specialized training.
+I'm currently studying at the **Faculty of Agriculture, Alexandria University**, while developing my skills in **AI & Data Science** through specialized training.
 
 I'm interested in **Data Analysis, Python, and AI**, and I enjoy building practical projects while continuously developing my technical skills.
 
@@ -17,9 +17,9 @@ I'm interested in **Data Analysis, Python, and AI**, and I enjoy building practi
 
 ### 📂 Featured Project
 
-**Supermarket Sales Analysis**
 
-A data analysis project exploring supermarket sales data using Python, Pandas, and data visualization.
+
+
 
 ### 🌱 Currently Learning
 
@@ -34,7 +34,7 @@ A data analysis project exploring supermarket sales data using Python, Pandas, a
 Currently studying
 
 **AI & Data Science Training**
-Currently learning
+Currently enrolled
 
 ### 📫 Connect with Me
 
