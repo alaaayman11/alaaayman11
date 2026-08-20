@@ -15,10 +15,6 @@ I'm interested in **Data Analysis, Python, and AI**, and I enjoy building practi
 * Data Visualization
 * SQL
 
-### 📂 Featured Project
-
-
-https://github.com/alaaayman11/supermarket-sales-analysis
 
 
 ### 🌱 Currently Learning
